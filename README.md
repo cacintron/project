@@ -1,6 +1,6 @@
 # Student Budget Planner
 
-#### Video Demo: <URL HERE>
+#### Video Demo: <https://youtu.be/gViQPmT01u8>
 
 #### Description:
 
